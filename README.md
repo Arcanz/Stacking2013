@@ -1,4 +1,4 @@
 Stacking2013
 ============
 
-Testing and prototype
+Copyright 2013 Eirik R. A. Hanssen
